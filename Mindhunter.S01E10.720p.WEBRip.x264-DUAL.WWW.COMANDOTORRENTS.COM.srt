@@ -1,0 +1,3515 @@
+1
+00:00:41,458 --> 00:00:44,544
+AGENTE HOLDEN FORD
+KEMPER 29026
+
+2
+00:00:49,633 --> 00:00:52,302
+UMA SÉRIE ORIGINAL NETFLIX
+
+3
+00:02:37,074 --> 00:02:38,116
+Recebi mais uma.
+
+4
+00:02:40,702 --> 00:02:42,371
+"Queria que estivesse aqui."
+
+5
+00:02:45,749 --> 00:02:48,251
+"Querido Holden,
+faz tempo desde que nos vimos,
+
+6
+00:02:48,335 --> 00:02:52,506
+e enquanto a memória de sua voz
+se apagou, o que discutimos não.
+
+7
+00:02:52,589 --> 00:02:57,302
+Tive mais ideias sobre meu comportamento,
+e quero dividir com você assim que puder.
+
+8
+00:02:57,386 --> 00:02:59,221
+Saudações, Ed Kemper."
+
+9
+00:02:59,304 --> 00:03:00,680
+Ed Kemper escreve para você?
+
+10
+00:03:00,764 --> 00:03:02,599
+Se o CRP resolver visitar...
+
+11
+00:03:02,682 --> 00:03:03,600
+Que se fodam.
+
+12
+00:03:06,895 --> 00:03:09,481
+-Bill Tench.
+<i>-Bill, detetive Chambers.</i>
+
+13
+00:03:09,564 --> 00:03:12,859
+-Oi, Gordon. Como vai tudo?
+<i>-Não vai ficar contente.</i>
+
+14
+00:03:13,443 --> 00:03:14,736
+Sei.
+
+15
+00:03:14,820 --> 00:03:16,988
+<i>Falei com Devier e sugeri o polígrafo.</i>
+
+16
+00:03:17,072 --> 00:03:19,533
+<i>Queria ver a reação dele. Ele concordou.</i>
+
+17
+00:03:19,616 --> 00:03:21,451
+-Você aplicou o teste?
+<i>-Isso mesmo.</i>
+
+18
+00:03:21,535 --> 00:03:22,702
+E ele passou?
+
+19
+00:03:22,786 --> 00:03:24,454
+<i>-Inconclusivo.
+-</i>Merda.
+
+20
+00:03:24,538 --> 00:03:25,997
+<i>Esse resultado não é frequente. </i>
+
+21
+00:03:26,081 --> 00:03:28,333
+Só ocorre 6% das vezes.
+
+22
+00:03:28,417 --> 00:03:30,752
+Geralmente depende
+de como são feitas as perguntas.
+
+23
+00:03:30,919 --> 00:03:32,963
+<i>-Acharam sangue na pedra.</i>
+-Inconclusivo.
+
+24
+00:03:33,046 --> 00:03:35,048
+<i>Devier limpou o carro dele.</i>
+
+25
+00:03:35,132 --> 00:03:37,467
+-Não temos provas físicas.
+<i>-Isso mesmo.</i>
+
+26
+00:03:37,551 --> 00:03:39,010
+<i>Inconclusivo é ruim?</i>
+
+27
+00:03:39,094 --> 00:03:42,597
+Não é suficiente pra prendê-lo.
+Na pior das hipóteses, será exonerado.
+
+28
+00:03:42,681 --> 00:03:44,224
+-Aguarde um minuto.
+<i>-Claro.</i>
+
+29
+00:03:45,475 --> 00:03:47,144
+-Ouviu?
+-Não têm provas contra ele?
+
+30
+00:03:47,227 --> 00:03:49,146
+Ficou feliz em fazer o teste do polígrafo.
+
+31
+00:03:49,229 --> 00:03:51,064
+Agora vai ficar mais insolente.
+
+32
+00:03:52,107 --> 00:03:54,109
+-Veremos se fala conosco.
+-Não tem como.
+
+33
+00:03:54,192 --> 00:03:55,026
+Peça a ele.
+
+34
+00:03:55,110 --> 00:03:57,904
+Estamos mesmo convencidos
+que ele é culpado?
+
+35
+00:03:57,988 --> 00:03:59,406
+-Cem por cento.
+-Eu, 70%.
+
+36
+00:03:59,489 --> 00:04:03,076
+Não é à toa que o podador de árvores
+foi acusado de estupro em outra cidade.
+
+37
+00:04:03,160 --> 00:04:04,369
+Leremos seus direitos.
+
+38
+00:04:04,453 --> 00:04:07,080
+É um estado com pena de morte.
+Não há provas contra ele.
+
+39
+00:04:07,164 --> 00:04:10,500
+Ele é narcisista,
+pode topar pra provar que consegue.
+
+40
+00:04:12,544 --> 00:04:15,338
+Mande o Chambers fazer um convite.
+
+41
+00:04:19,843 --> 00:04:21,178
+-Gordon?
+<i>-Sim.</i>
+
+42
+00:04:21,678 --> 00:04:22,763
+Eis uma ideia.
+
+43
+00:04:25,348 --> 00:04:27,267
+Pode trazer o Devier mais tarde?
+
+44
+00:04:27,517 --> 00:04:28,810
+Claro. Esta noite?
+
+45
+00:04:28,894 --> 00:04:31,730
+Pelas 18h ou 19h. Casual, um papo à noite.
+
+46
+00:04:31,813 --> 00:04:35,192
+Não está sendo preso, mas é importante.
+O FBI quer falar com ele.
+
+47
+00:04:35,567 --> 00:04:37,569
+À noite parece mais casual?
+
+48
+00:04:37,652 --> 00:04:40,322
+Essa é a ideia.
+Ele estará cansado e vulnerável.
+
+49
+00:04:40,405 --> 00:04:43,700
+Verá que estamos trabalhando
+fora do horário. Que é papo sério.
+
+50
+00:04:45,243 --> 00:04:47,871
+Quando ele chegar, nós o faremos esperar.
+
+51
+00:04:47,954 --> 00:04:49,790
+-Está bem.
+-Pelo menos uma hora.
+
+52
+00:04:50,540 --> 00:04:51,500
+E isso vai...
+
+53
+00:04:51,583 --> 00:04:53,668
+Já esperou pelo resultado de um exame?
+
+54
+00:04:53,752 --> 00:04:56,087
+Temos de criar nele uma memória intensa.
+
+55
+00:04:56,171 --> 00:04:58,673
+Temos de desencadear
+uma resposta psicológica.
+
+56
+00:04:58,757 --> 00:05:01,051
+-Precisamos de um sapato.
+-Um sapato?
+
+57
+00:05:01,718 --> 00:05:03,637
+Nós o usamos para dobrar outro sociopata.
+
+58
+00:05:03,720 --> 00:05:06,139
+Temos de achar o equivalente para Devier.
+
+59
+00:05:09,184 --> 00:05:10,519
+BEM-VINDOS A ATLANTA
+
+60
+00:05:12,062 --> 00:05:15,023
+-Mostre-me tudo que tem sobre Devier.
+-Brass.
+
+61
+00:05:18,235 --> 00:05:19,820
+-Só isso?
+-É isso.
+
+62
+00:05:19,903 --> 00:05:22,864
+Preciso de muito mais.
+Mais pastas, mais volume.
+
+63
+00:05:22,948 --> 00:05:25,575
+Faça cópias.
+Use páginas em branco se precisar.
+
+64
+00:05:25,659 --> 00:05:27,536
+Quero que pareça um guia telefônico.
+
+65
+00:05:28,745 --> 00:05:30,497
+-Arquivo de provas?
+-Por aqui.
+
+66
+00:05:36,169 --> 00:05:38,338
+O que temos aqui?
+
+67
+00:05:43,426 --> 00:05:47,138
+Isso é ótimo. Onde está o bastão dela?
+O bastão de baliza?
+
+68
+00:05:49,224 --> 00:05:51,434
+-Não estava com ela.
+-Tudo bem.
+
+69
+00:05:54,062 --> 00:05:56,356
+Leve tudo isso pro local da entrevista.
+
+70
+00:05:56,565 --> 00:05:57,482
+Sim, senhor.
+
+71
+00:05:58,108 --> 00:06:00,151
+Tem algo de onde acharam o corpo?
+
+72
+00:06:00,235 --> 00:06:02,237
+Na prateleira de baixo.
+
+73
+00:06:09,828 --> 00:06:10,870
+Certo.
+
+74
+00:06:13,415 --> 00:06:16,334
+-Tem loja de descontos por aqui?
+-Perto da praça.
+
+75
+00:06:16,418 --> 00:06:19,462
+Compre um bastão, mesmo se for barato.
+Tire o preço.
+
+76
+00:06:19,546 --> 00:06:21,006
+-Arraste-o no chão.
+-Sim.
+
+77
+00:06:21,089 --> 00:06:24,551
+Não quero que ele veja provas.
+Quero que só veja uma linda garotinha.
+
+78
+00:06:24,634 --> 00:06:25,635
+Rápido.
+
+79
+00:06:30,265 --> 00:06:32,017
+Quando o Devier chegar,
+
+80
+00:06:32,100 --> 00:06:35,020
+vou fazer perguntas que pode não gostar.
+
+81
+00:06:35,645 --> 00:06:39,441
+Passar no teste do polígrafo o acalmou.
+Então, aguente firme.
+
+82
+00:06:40,108 --> 00:06:41,109
+Claro.
+
+83
+00:06:44,112 --> 00:06:45,822
+Isso é coisa do FBI?
+
+84
+00:06:46,907 --> 00:06:47,949
+É coisa...
+
+85
+00:06:49,034 --> 00:06:49,868
+dele.
+
+86
+00:06:52,078 --> 00:06:54,372
+O Devier está chegando.
+
+87
+00:07:06,676 --> 00:07:07,594
+Devier.
+
+88
+00:07:09,429 --> 00:07:10,430
+Venha por aqui.
+
+89
+00:07:25,278 --> 00:07:27,656
+Vou pedir que espere aí.
+
+90
+00:07:27,739 --> 00:07:30,158
+Espere até os agentes chegarem.
+Quer um cigarro?
+
+91
+00:07:30,241 --> 00:07:31,409
+Seria ótimo.
+
+92
+00:07:32,869 --> 00:07:34,996
+Não sei quanta informação posso dar,
+
+93
+00:07:35,080 --> 00:07:36,873
+mas ajudarei no que puder.
+
+94
+00:07:36,957 --> 00:07:39,209
+Só querem conversar com você. Por aqui.
+
+95
+00:07:53,181 --> 00:07:54,265
+Ele está aqui.
+
+96
+00:07:55,183 --> 00:07:58,061
+Gene, olá. Sou o agente especial Ford.
+
+97
+00:07:58,144 --> 00:07:59,729
+-Oi.
+-Agente especial Bill Tench.
+
+98
+00:07:59,813 --> 00:08:02,107
+-Oi.
+-Detetive Chambers, já se conhecem.
+
+99
+00:08:02,190 --> 00:08:04,859
+Muito obrigado por vir.
+Já leram seus direitos?
+
+100
+00:08:04,943 --> 00:08:06,152
+-De novo.
+-Ótimo.
+
+101
+00:08:06,236 --> 00:08:08,613
+Vamos fazer isso o mais rápido possível.
+
+102
+00:08:08,697 --> 00:08:10,824
+Imagino que tenha coisa melhor pra fazer.
+
+103
+00:08:12,784 --> 00:08:15,537
+<i>O Exército não era pra mim. 
+Tenho de admitir.</i>
+
+104
+00:08:15,620 --> 00:08:19,582
+Muito regimental. Não aguentei gritarem
+ordens pra mim sem parar.
+
+105
+00:08:19,833 --> 00:08:22,252
+Gosto das coisas mais relaxadas.
+
+106
+00:08:22,335 --> 00:08:25,255
+Trabalhar ao ar livre, ar fresco.
+
+107
+00:08:25,922 --> 00:08:28,008
+John, meu chefe,
+foi legal ao me contratar,
+
+108
+00:08:28,091 --> 00:08:29,509
+mesmo com minha baixa.
+
+109
+00:08:30,051 --> 00:08:31,636
+Pareceu encaixar perfeitamente.
+
+110
+00:08:31,720 --> 00:08:35,181
+-Ar livre, trabalho manual.
+-Serviço militar não é pra todos.
+
+111
+00:08:35,265 --> 00:08:37,434
+Não dá pra saber antes de entrar.
+
+112
+00:08:37,517 --> 00:08:38,560
+Você foi voluntário?
+
+113
+00:08:38,643 --> 00:08:41,354
+O Vietnã tinha acabado,
+achei que ia ser moleza.
+
+114
+00:08:41,438 --> 00:08:43,189
+Você casou e se divorciou duas vezes.
+
+115
+00:08:43,273 --> 00:08:45,734
+O que posso dizer?
+Sou popular entre as mulheres.
+
+116
+00:08:45,817 --> 00:08:48,111
+-Ou impopular.
+-Depende do ponto de vista.
+
+117
+00:08:48,194 --> 00:08:49,612
+Eu cometi erros.
+
+118
+00:08:49,696 --> 00:08:51,614
+Casei com 16 anos.
+
+119
+00:08:51,698 --> 00:08:53,408
+Assim que largou o ensino médio?
+
+120
+00:08:53,491 --> 00:08:55,285
+-Foi.
+-Por que o largou?
+
+121
+00:08:55,785 --> 00:08:58,872
+-Não conseguia ficar quieto.
+-A escola também me enlouquecia.
+
+122
+00:08:58,955 --> 00:09:00,874
+Casou com sua primeira namorada.
+
+123
+00:09:01,708 --> 00:09:04,044
+-Por que se separaram?
+-Brigávamos sem parar.
+
+124
+00:09:04,127 --> 00:09:06,171
+-E sua segunda mulher?
+-Mesma coisa.
+
+125
+00:09:06,254 --> 00:09:08,423
+Mas mora com sua primeira mulher?
+
+126
+00:09:08,506 --> 00:09:11,885
+Eu sei. É meio...
+
+127
+00:09:11,968 --> 00:09:13,595
+Mesma coisa? Brigam muito?
+
+128
+00:09:13,678 --> 00:09:16,139
+-Às vezes.
+-Mas ela não tem mais 16 anos.
+
+129
+00:09:16,556 --> 00:09:19,059
+Não.
+
+130
+00:09:19,142 --> 00:09:21,061
+Não está mais na flor da idade.
+
+131
+00:09:23,271 --> 00:09:25,356
+Tem muita informação sobre mim.
+
+132
+00:09:25,732 --> 00:09:27,317
+O FBI vai fundo.
+
+133
+00:09:28,068 --> 00:09:30,570
+E o que sou? Um bandido?
+
+134
+00:09:31,154 --> 00:09:32,238
+Burocracia.
+
+135
+00:09:34,866 --> 00:09:37,911
+Tenho de cair fora daqui em breve.
+Se pudermos...
+
+136
+00:09:37,994 --> 00:09:39,412
+Claro.
+
+137
+00:09:40,038 --> 00:09:41,456
+Vamos ao que interessa.
+
+138
+00:09:41,539 --> 00:09:43,416
+Você é importante para nós, Gene.
+
+139
+00:09:43,500 --> 00:09:45,877
+Esteve na rua da Lisa
+uma semana antes de ela sumir.
+
+140
+00:09:45,960 --> 00:09:48,254
+Tinha uma visão aérea de todo o local.
+
+141
+00:09:48,838 --> 00:09:50,632
+Sim, mas eu não vi nada.
+
+142
+00:09:50,715 --> 00:09:53,343
+Estava focado nas árvores. 
+Temos que estar.
+
+143
+00:09:53,426 --> 00:09:56,638
+-Especialmente trabalhando com serra.
+-Sei, mas...
+
+144
+00:09:57,514 --> 00:09:59,641
+Estamos atrás de qualquer coisa aqui.
+
+145
+00:10:00,141 --> 00:10:02,310
+Você é quase uma testemunha ocular.
+
+146
+00:10:03,853 --> 00:10:07,482
+Eu fiz o teste do polígrafo,
+sou um livro aberto.
+
+147
+00:10:07,565 --> 00:10:08,525
+Obrigado.
+
+148
+00:10:10,401 --> 00:10:11,402
+Então...
+
+149
+00:10:12,487 --> 00:10:14,823
+deve ter visto a Lisa indo e vindo
+naquela semana.
+
+150
+00:10:14,906 --> 00:10:15,865
+Na verdade, não.
+
+151
+00:10:16,366 --> 00:10:18,284
+-Uma ou duas vezes.
+-Bem...
+
+152
+00:10:19,160 --> 00:10:22,288
+se ela usava aquela roupa,
+não tinha como não ver.
+
+153
+00:10:23,623 --> 00:10:27,752
+Sim, acho que a vi umas duas vezes.
+
+154
+00:10:27,836 --> 00:10:29,921
+Chapéu com plumas, bastão prateado?
+
+155
+00:10:30,171 --> 00:10:31,005
+Sim.
+
+156
+00:10:31,089 --> 00:10:33,216
+A que horas ela pegava o ônibus de manhã?
+
+157
+00:10:33,299 --> 00:10:35,844
+Vejamos, eu chegava às sete,
+
+158
+00:10:35,927 --> 00:10:38,763
+ela saía meia hora depois.
+
+159
+00:10:38,847 --> 00:10:41,975
+E a que horas o ônibus a deixava?
+
+160
+00:10:42,433 --> 00:10:43,351
+Não sei dizer.
+
+161
+00:10:44,352 --> 00:10:47,063
+Talvez lá pelas 15h30 ou 16h.
+
+162
+00:10:47,147 --> 00:10:49,399
+Você a viu falar com alguém ao chegar?
+
+163
+00:10:49,482 --> 00:10:50,692
+Não, senhor.
+
+164
+00:10:50,775 --> 00:10:53,319
+Alguém na rua que parecia não ser dali?
+
+165
+00:10:53,820 --> 00:10:56,406
+Não que me lembre, mas...
+
+166
+00:10:56,906 --> 00:10:59,450
+Não trabalhei lá
+na semana em que ela sumiu.
+
+167
+00:10:59,534 --> 00:11:00,493
+Certo.
+
+168
+00:11:02,370 --> 00:11:03,955
+Espere, quase acabou.
+
+169
+00:11:09,169 --> 00:11:10,879
+Ela vestia isso quando sumiu.
+
+170
+00:11:16,175 --> 00:11:17,010
+Doloroso.
+
+171
+00:11:17,093 --> 00:11:18,344
+PAUSA
+
+172
+00:11:19,053 --> 00:11:23,224
+-Segundo consta, ela era uma boa menina.
+-Parecia simpática.
+
+173
+00:11:24,225 --> 00:11:25,101
+Você percebeu?
+
+174
+00:11:25,560 --> 00:11:28,897
+Eu a vi brincando no quintal
+com seu cachorrinho.
+
+175
+00:11:28,980 --> 00:11:30,857
+Acho que posso dizer que era...
+
+176
+00:11:30,940 --> 00:11:32,901
+-Precoce?
+-Isso.
+
+177
+00:11:32,984 --> 00:11:34,068
+Chegou a falar com ela?
+
+178
+00:11:34,861 --> 00:11:36,738
+-Não.
+-Ela falou com você?
+
+179
+00:11:37,697 --> 00:11:39,449
+Acenou uma ou duas vezes.
+
+180
+00:11:44,203 --> 00:11:46,664
+-Ela era líder de torcida?
+<i>-</i>Baliza<i>.</i>
+
+181
+00:11:48,541 --> 00:11:50,627
+Essas meninas que dançam são incríveis.
+
+182
+00:11:51,961 --> 00:11:53,713
+Sempre tive atração por elas.
+
+183
+00:11:54,964 --> 00:11:55,798
+Quero dizer...
+
+184
+00:11:58,551 --> 00:12:01,638
+ela ficava muito gostosa com aquela roupa,
+não acham?
+
+185
+00:12:04,474 --> 00:12:06,726
+-Claro.
+-Deixa muito à mostra.
+
+186
+00:12:07,727 --> 00:12:08,937
+Imagino que sim.
+
+187
+00:12:10,647 --> 00:12:11,564
+Puxa vida.
+
+188
+00:12:12,357 --> 00:12:13,650
+Vocês não acham?
+
+189
+00:12:16,361 --> 00:12:18,905
+-Ou seja...
+-Parecia ter mais de 12 anos.
+
+190
+00:12:18,988 --> 00:12:20,490
+Foi o que pensei.
+
+191
+00:12:20,573 --> 00:12:23,409
+Sim. Obrigado. Então, não sou só eu?
+
+192
+00:12:23,493 --> 00:12:26,162
+Essas meninas de hoje
+se desenvolvem cedo.
+
+193
+00:12:26,245 --> 00:12:27,080
+Com certeza.
+
+194
+00:12:28,706 --> 00:12:30,708
+Mas Lisa estava no ensino fundamental.
+
+195
+00:12:31,209 --> 00:12:33,294
+Quem a atacou, talvez não soubesse.
+
+196
+00:12:35,838 --> 00:12:38,174
+Estou aqui, pensando,
+
+197
+00:12:38,257 --> 00:12:40,301
+tentando me lembrar se vi alguém, mas...
+
+198
+00:12:40,385 --> 00:12:42,136
+Ele achou que ela tinha mais de 12.
+
+199
+00:12:42,220 --> 00:12:43,721
+Ela era simpática, falou com ele.
+
+200
+00:12:43,805 --> 00:12:46,474
+Ele achou que se ficassem juntos
+seria consensual.
+
+201
+00:12:46,557 --> 00:12:50,186
+Quatorze anos é a idade do consentimento.
+
+202
+00:12:50,728 --> 00:12:51,729
+É verdade?
+
+203
+00:12:52,647 --> 00:12:53,523
+Sim.
+
+204
+00:12:57,735 --> 00:13:00,905
+Acho que a Geórgia
+está meio avançada nesse sentido.
+
+205
+00:13:01,698 --> 00:13:04,117
+Quando a mulher já tem pentelhos,
+
+206
+00:13:04,200 --> 00:13:06,828
+deveria ser capaz de decidir
+com quem transa.
+
+207
+00:13:08,871 --> 00:13:12,083
+Sim, cara. Nunca pensei nisso antes,
+
+208
+00:13:12,166 --> 00:13:13,626
+-mas, sim.
+-É verdade.
+
+209
+00:13:13,710 --> 00:13:15,962
+-Bom argumento.
+-Algumas moças raspam tudo.
+
+210
+00:13:16,045 --> 00:13:17,422
+-Já viu isso?
+-Não.
+
+211
+00:13:18,339 --> 00:13:19,966
+Parecem tão jovens.
+
+212
+00:13:21,551 --> 00:13:23,761
+-Já viu?
+-Não, mas ouvi falar.
+
+213
+00:13:23,845 --> 00:13:26,597
+-Eu quis que minha garota raspasse.
+-Acha que ela faria?
+
+214
+00:13:26,681 --> 00:13:28,808
+Ela está pensando se vai fazer.
+
+215
+00:13:28,891 --> 00:13:30,435
+O que disse a ela?
+
+216
+00:13:30,518 --> 00:13:32,270
+Eu disse: "Querida, isso me dá tesão."
+
+217
+00:13:32,353 --> 00:13:35,648
+-Foi direto assim?
+-Sim, mas não sei se ela vai fazer.
+
+218
+00:13:36,149 --> 00:13:39,736
+As mulheres ficaram mais independentes,
+mas bem que daria tesão.
+
+219
+00:13:40,611 --> 00:13:41,612
+Não acha?
+
+220
+00:13:43,072 --> 00:13:44,032
+Claro.
+
+221
+00:13:44,115 --> 00:13:47,368
+Precisa transar com a xoxota jovem,
+antes de ela virar mãe.
+
+222
+00:13:51,956 --> 00:13:55,793
+Ela puxa papo. Ele acha que ela tem idade
+suficiente pra usar aquela roupa,
+
+223
+00:13:55,877 --> 00:13:59,756
+girar o bastão e marchar,
+e até ter pentelhos, mas ainda ralos.
+
+224
+00:13:59,839 --> 00:14:00,840
+Intervalo?
+
+225
+00:14:01,424 --> 00:14:02,633
+Precisa de um, Gene?
+
+226
+00:14:04,343 --> 00:14:05,928
+Não, eu estou bem.
+
+227
+00:14:06,012 --> 00:14:07,346
+Eu preciso de um intervalo.
+
+228
+00:14:08,931 --> 00:14:11,350
+Estou muito preocupado
+com este interrogatório.
+
+229
+00:14:11,434 --> 00:14:13,102
+Já disse, tem de relaxar.
+
+230
+00:14:13,186 --> 00:14:15,897
+Se souberem que sugerimos
+que a garota flertou com ele...
+
+231
+00:14:15,980 --> 00:14:17,940
+-Como?
+-Ele desligou o gravador.
+
+232
+00:14:18,024 --> 00:14:19,067
+Eu vi isso.
+
+233
+00:14:19,609 --> 00:14:21,569
+Não sei o que achar disso também.
+
+234
+00:14:21,944 --> 00:14:23,363
+Concorda com isso?
+
+235
+00:14:23,446 --> 00:14:25,448
+Teoricamente. Não muito na prática.
+
+236
+00:14:26,240 --> 00:14:29,369
+Assumo a responsabilidade
+do que acontecer aqui.
+
+237
+00:14:37,710 --> 00:14:40,004
+<i>Muitos o chamariam de andaime,</i>
+
+238
+00:14:40,088 --> 00:14:43,299
+mas o termo técnico
+é plataforma elevatória.
+
+239
+00:14:43,383 --> 00:14:45,009
+Já subiu até que altura?
+
+240
+00:14:45,093 --> 00:14:46,844
+Cerca de 16 metros.
+
+241
+00:14:46,928 --> 00:14:48,679
+-Numa árvore?
+-Isso.
+
+242
+00:14:48,763 --> 00:14:51,849
+-Mas usava cinto de segurança?
+-Claro, por causa da altura.
+
+243
+00:14:51,933 --> 00:14:56,062
+Mas às vezes precisa se soltar
+pra alcançar alguns galhos.
+
+244
+00:14:56,145 --> 00:14:58,856
+-Só não olhe pra baixo!
+-Isso não me incomoda.
+
+245
+00:14:58,940 --> 00:15:01,067
+Você viu Lisa acenar
+para você algumas vezes.
+
+246
+00:15:01,150 --> 00:15:03,069
+Não deveria estar tão alto assim.
+
+247
+00:15:03,152 --> 00:15:04,529
+Não tenho certeza.
+
+248
+00:15:04,612 --> 00:15:06,989
+-Ela falou com você?
+-Não.
+
+249
+00:15:07,490 --> 00:15:08,866
+Mas eu já disse isso.
+
+250
+00:15:10,493 --> 00:15:11,494
+Tudo bem.
+
+251
+00:15:11,577 --> 00:15:12,578
+Por quê?
+
+252
+00:15:13,871 --> 00:15:16,207
+Temos uma pessoa que viu vocês se falando.
+
+253
+00:15:16,874 --> 00:15:19,001
+Achei que eu era sua testemunha principal.
+
+254
+00:15:19,085 --> 00:15:20,962
+A única cuidando a rua.
+
+255
+00:15:21,045 --> 00:15:22,922
+Você é um cara bonitão.
+
+256
+00:15:23,005 --> 00:15:25,466
+Ela se aproximou de você, amigavelmente?
+
+257
+00:15:25,550 --> 00:15:28,678
+Via você ali em cima todos os dias,
+suando sob o sol.
+
+258
+00:15:28,761 --> 00:15:31,431
+Será que ela não lhe ofereceu
+um refrigerante?
+
+259
+00:15:33,975 --> 00:15:36,352
+Ela talvez tenha falado comigo.
+
+260
+00:15:37,019 --> 00:15:38,229
+Consegue se lembrar?
+
+261
+00:15:39,689 --> 00:15:41,816
+-Acho que sim.
+-Está relembrando.
+
+262
+00:15:41,899 --> 00:15:44,569
+Só que... ela talvez tenha falado comigo.
+
+263
+00:15:44,652 --> 00:15:45,653
+O que ela disse?
+
+264
+00:15:46,446 --> 00:15:47,905
+-Não sei.
+-Não sabe?
+
+265
+00:15:48,906 --> 00:15:50,908
+-Não.
+-Não tem ideia?
+
+266
+00:15:50,992 --> 00:15:52,034
+Estava escutando?
+
+267
+00:15:54,162 --> 00:15:55,621
+Não lembro.
+
+268
+00:15:55,705 --> 00:15:58,416
+Ela perguntou sobre seu trabalho,
+seu dia, onde mora?
+
+269
+00:15:59,208 --> 00:16:00,501
+Algo assim.
+
+270
+00:16:00,585 --> 00:16:01,669
+Papo informal.
+
+271
+00:16:02,295 --> 00:16:03,254
+Claro.
+
+272
+00:16:03,838 --> 00:16:05,965
+Aposto que ela achou você bonitão.
+
+273
+00:16:07,216 --> 00:16:08,301
+Não sei.
+
+274
+00:16:08,384 --> 00:16:09,760
+Você a achou bonita?
+
+275
+00:16:12,889 --> 00:16:15,266
+Já sabemos que ela parecia ter 14 anos.
+
+276
+00:16:19,645 --> 00:16:22,064
+-Eu achei.
+-Achou o quê?
+
+277
+00:16:22,148 --> 00:16:24,484
+-Que era bonitinha.
+-Também era precoce.
+
+278
+00:16:24,984 --> 00:16:27,361
+Não se importava de você ser mais velho.
+
+279
+00:16:27,653 --> 00:16:29,238
+Talvez até gostasse disso.
+
+280
+00:16:30,156 --> 00:16:32,783
+Também achei que ela estava a fim de mim.
+
+281
+00:16:32,867 --> 00:16:36,287
+Quando acabou seu trabalho ali,
+continuou pensando nela?
+
+282
+00:16:36,829 --> 00:16:38,581
+-Não.
+-Voltou lá alguma vez
+
+283
+00:16:38,664 --> 00:16:40,500
+pra ver se ela queria conversar?
+
+284
+00:16:41,083 --> 00:16:42,960
+Foi ela que começou, certo?
+
+285
+00:16:43,044 --> 00:16:44,045
+De certa forma.
+
+286
+00:16:47,757 --> 00:16:49,217
+E esse casaco?
+
+287
+00:16:52,970 --> 00:16:54,347
+Você a viu vestindo isso?
+
+288
+00:16:57,225 --> 00:16:58,601
+Olhe mais de perto.
+
+289
+00:17:08,945 --> 00:17:11,781
+Quando a pegou no ônibus,
+ela vestia esse casaco?
+
+290
+00:17:14,408 --> 00:17:16,244
+Tinha muito sangue na cena do crime.
+
+291
+00:17:16,327 --> 00:17:19,539
+Não revelamos muitos detalhes,
+mas o crânio dela estava esmagado.
+
+292
+00:17:19,622 --> 00:17:21,249
+O sangue respinga em tudo.
+
+293
+00:17:22,041 --> 00:17:24,126
+Em crimes que envolvem força traumática,
+
+294
+00:17:24,210 --> 00:17:25,962
+é quase impossível o agressor
+
+295
+00:17:26,045 --> 00:17:28,422
+evitar se manchar com o sangue da vítima.
+
+296
+00:17:28,506 --> 00:17:30,716
+O escalpo tem milhares de capilares.
+
+297
+00:17:30,800 --> 00:17:33,135
+O sangue espirra em tudo
+feito um borrifador.
+
+298
+00:17:33,219 --> 00:17:35,388
+No seu cabelo, seu nariz.
+
+299
+00:17:35,805 --> 00:17:37,932
+Seria surpreendente não ter
+respingado em você.
+
+300
+00:17:38,015 --> 00:17:40,101
+-Ele já tomou banho.
+-O que tem sob as unhas?
+
+301
+00:17:40,184 --> 00:17:42,603
+-Só sujeira, Bill.
+-Vamos pegar uma amostra.
+
+302
+00:17:42,687 --> 00:17:44,855
+-Já escovou as unhas.
+-Está nos ouvidos?
+
+303
+00:17:44,939 --> 00:17:47,358
+Acho que está.
+Quando os limpou pela última vez?
+
+304
+00:17:47,441 --> 00:17:49,860
+-Quer pegar uma amostra, Bill?
+-Podemos?
+
+305
+00:17:49,944 --> 00:17:51,571
+Sim. Posso organizar isso.
+
+306
+00:17:57,702 --> 00:17:58,995
+Você ficou quieto.
+
+307
+00:17:59,412 --> 00:18:01,247
+Quando acusamos alguém de homicídio,
+
+308
+00:18:01,330 --> 00:18:03,082
+se são inocentes, não param de falar.
+
+309
+00:18:03,165 --> 00:18:04,208
+Alegam inocência.
+
+310
+00:18:04,292 --> 00:18:06,961
+"Como ousa? Vá se foder.
+Conheço meus direitos."
+
+311
+00:18:07,044 --> 00:18:10,006
+Um cara culpado se fecha,
+ouve atentamente,
+
+312
+00:18:10,089 --> 00:18:11,132
+como você está fazendo.
+
+313
+00:18:11,215 --> 00:18:13,759
+Se um cara culpado grita
+pra pensarem que é inocente,
+
+314
+00:18:13,843 --> 00:18:16,554
+-se nota a diferença.
+-Claro que sim.
+
+315
+00:18:17,513 --> 00:18:19,557
+Por que olha pra aquela pedra, Gene?
+
+316
+00:18:19,640 --> 00:18:22,643
+Um homem inocente teria de adivinhar
+seu significado.
+
+317
+00:18:22,768 --> 00:18:25,229
+Foi usada pra matar Lisa, certo?
+
+318
+00:18:25,313 --> 00:18:27,440
+Quando as coisas saíram do controle.
+
+319
+00:18:28,024 --> 00:18:29,692
+Você não quis fazer aquilo, não é?
+
+320
+00:18:29,775 --> 00:18:33,029
+Ela veio até você, parecia simpática,
+e aí, tudo mudou.
+
+321
+00:18:33,946 --> 00:18:37,283
+Nossa questão não é se foi você.
+Sabemos que foi.
+
+322
+00:18:37,366 --> 00:18:38,868
+Nossa questão é...
+
+323
+00:18:39,577 --> 00:18:40,494
+"Por quê?"
+
+324
+00:18:41,537 --> 00:18:44,790
+Achamos que sabemos 
+por que e entendemos.
+
+325
+00:18:47,001 --> 00:18:49,003
+Só precisa dizer se estamos certos.
+
+326
+00:19:03,476 --> 00:19:05,519
+-Podem ensinar isso?
+-Deveríamos.
+
+327
+00:19:05,603 --> 00:19:08,773
+Bill, por que não estamos ensinando
+perfil na academia?
+
+328
+00:19:08,856 --> 00:19:10,650
+Porque ainda o estamos estudando.
+
+329
+00:19:11,859 --> 00:19:13,861
+-Gostou do bourbon?
+-Sim.
+
+330
+00:19:13,944 --> 00:19:15,071
+Mais dois.
+
+331
+00:19:15,154 --> 00:19:17,823
+Não consigo esquecer da pedra.
+
+332
+00:19:17,907 --> 00:19:20,576
+Ele não pôde controlar sua reação.
+
+333
+00:19:20,660 --> 00:19:22,620
+-Todos têm suas pedras.
+-Como assim?
+
+334
+00:19:22,703 --> 00:19:24,497
+Algo que os faz suar.
+
+335
+00:19:24,664 --> 00:19:27,500
+Por exemplo, meu último ano na faculdade.
+
+336
+00:19:27,583 --> 00:19:30,503
+Vim pra casa passar o Natal,
+estou na cozinha com meu pai,
+
+337
+00:19:30,586 --> 00:19:33,005
+e minha mãe traz licor de ovos.
+
+338
+00:19:34,256 --> 00:19:36,634
+Ela me dá um copo e diz:
+
+339
+00:19:36,717 --> 00:19:40,388
+"Holden, já fez sexo com uma mulher?"
+
+340
+00:19:40,471 --> 00:19:41,389
+-Não brinca!
+-Foi.
+
+341
+00:19:41,472 --> 00:19:45,059
+E eu disse: "Sim, mamãe, fiz."
+
+342
+00:19:45,142 --> 00:19:46,852
+E ela: "Como ela se chama?"
+
+343
+00:19:46,936 --> 00:19:50,272
+E eu: "Mãe, já fiz com várias."
+
+344
+00:19:50,773 --> 00:19:51,774
+Saúde!
+
+345
+00:19:52,608 --> 00:19:53,609
+E então...
+
+346
+00:19:56,070 --> 00:19:58,406
+E daí, ela diz: "Holden...
+
+347
+00:20:00,032 --> 00:20:01,951
+quem vai querer você como marido agora?"
+
+348
+00:20:02,660 --> 00:20:05,079
+Se ela me perguntasse hoje,
+
+349
+00:20:05,162 --> 00:20:07,748
+a mesma coisa ia acontecer.
+Eu ia desmoronar de novo.
+
+350
+00:20:07,832 --> 00:20:09,208
+Ela é sua pedra.
+
+351
+00:20:09,875 --> 00:20:10,960
+Vamos ser claros.
+
+352
+00:20:11,419 --> 00:20:14,046
+Tudo o que fez foi pôr a arma
+do crime na frente do Gene.
+
+353
+00:20:14,130 --> 00:20:15,131
+Bill, puxa vida.
+
+354
+00:20:15,214 --> 00:20:19,051
+Nós presumimos que o assassino
+poderia se sentir culpado.
+
+355
+00:20:19,135 --> 00:20:20,553
+E daí, eu só...
+
+356
+00:20:21,721 --> 00:20:25,141
+criei uma situação onde a culpa
+tomou conta dele.
+
+357
+00:20:25,224 --> 00:20:26,392
+Não foi culpa.
+
+358
+00:20:26,475 --> 00:20:29,729
+Ele pensou:
+"Merda, vou pra cadeira elétrica."
+
+359
+00:20:31,147 --> 00:20:32,773
+Como descobriram isso?
+
+360
+00:20:33,899 --> 00:20:37,737
+Entrevistando Richard Speck,
+Jerry Brudos e Ed Kemper.
+
+361
+00:20:39,196 --> 00:20:40,990
+Falaram com eles pessoalmente?
+
+362
+00:20:41,323 --> 00:20:43,451
+E estamos de olho em Manson e Berkowitz.
+
+363
+00:20:43,534 --> 00:20:44,410
+Não brinca!
+
+364
+00:20:44,493 --> 00:20:46,495
+-Inacreditável.
+-Como eles são?
+
+365
+00:20:47,872 --> 00:20:50,499
+Não estou dizendo nada errado
+quando digo...
+
+366
+00:20:50,583 --> 00:20:54,086
+eles são doidos.
+
+367
+00:20:55,296 --> 00:20:56,213
+Amém.
+
+368
+00:20:59,341 --> 00:21:00,593
+O que disse a ele?
+
+369
+00:21:00,676 --> 00:21:04,889
+Falamos como garotinhas são gostosas,
+e muitas vezes parecem ser mais velhas.
+
+370
+00:21:04,972 --> 00:21:06,348
+O resultado final valeu.
+
+371
+00:21:06,432 --> 00:21:08,642
+Mostrei tudo o que ela estava usando.
+
+372
+00:21:08,726 --> 00:21:12,146
+Fiz um retrato do último dia da vida
+de uma garota de 12 anos.
+
+373
+00:21:12,229 --> 00:21:14,565
+Você encenou. Como um diretor.
+
+374
+00:21:15,149 --> 00:21:16,150
+Acho que sim.
+
+375
+00:21:16,233 --> 00:21:18,778
+Ele não sabia que interpretava
+um papel no seu drama.
+
+376
+00:21:18,861 --> 00:21:20,738
+Foi isso que criou a tensão.
+
+377
+00:21:20,821 --> 00:21:23,199
+Ninguém previu a relevância da pedra.
+
+378
+00:21:23,282 --> 00:21:25,618
+Ele surtou.
+
+379
+00:21:26,577 --> 00:21:28,454
+Dava para sentir o cheiro do suor.
+
+380
+00:21:28,537 --> 00:21:30,289
+-Pavloviano.
+-Culpa.
+
+381
+00:21:31,207 --> 00:21:34,210
+Mas você sabia que ele era culpado
+antes de entrar.
+
+382
+00:21:34,835 --> 00:21:36,420
+Era óbvio.
+
+383
+00:21:36,504 --> 00:21:38,964
+Sim, mas você presumiu.
+
+384
+00:21:40,216 --> 00:21:41,926
+Presumi corretamente.
+
+385
+00:21:42,009 --> 00:21:45,596
+É uma experiência válida
+se parte de uma conclusão?
+
+386
+00:21:45,805 --> 00:21:47,556
+Se sua teoria for confirmada.
+
+387
+00:21:47,640 --> 00:21:51,227
+Holden, você o levou
+a uma reação emocional.
+
+388
+00:21:51,310 --> 00:21:53,771
+Coloquei um assassino
+de crianças na cadeia.
+
+389
+00:21:53,854 --> 00:21:55,064
+Como Perry Mason?
+
+390
+00:21:55,856 --> 00:21:58,984
+-Isso mesmo.
+-Só que o Mason não se excitou com isso.
+
+391
+00:22:00,236 --> 00:22:02,363
+-Pare de me analisar.
+-Não estou analisando.
+
+392
+00:22:02,446 --> 00:22:04,281
+Você sempre diz isso.
+
+393
+00:22:04,365 --> 00:22:07,076
+Estava falando do seu trabalho.
+É como nos comunicamos.
+
+394
+00:22:07,159 --> 00:22:09,495
+Você fala de seu trabalho
+e eu dou minha opinião.
+
+395
+00:22:09,578 --> 00:22:11,372
+Talvez eu não queira sua opinião.
+
+396
+00:22:11,455 --> 00:22:14,625
+-Quando não estou de acordo com você.
+-Poderia ser só minha namorada?
+
+397
+00:22:14,708 --> 00:22:15,835
+Poderia só escutar?
+
+398
+00:22:17,545 --> 00:22:19,505
+Calar a boca e adorar você?
+
+399
+00:22:19,588 --> 00:22:22,174
+Poderia tentar. Só uma vez.
+
+400
+00:22:51,787 --> 00:22:53,998
+<i>Eu diria que fazer móveis 
+com restos humanos</i>
+
+401
+00:22:54,081 --> 00:22:55,916
+cai na categoria "organizado".
+
+402
+00:22:56,417 --> 00:22:57,501
+Estamos famosos.
+
+403
+00:22:57,918 --> 00:23:01,005
+Parece que só se fala nisso
+no escritório de Atlanta.
+
+404
+00:23:03,007 --> 00:23:06,468
+"Devier confessa ao ser interrogado
+por um novo tipo de agente do FBI."
+
+405
+00:23:06,552 --> 00:23:09,179
+-Somos nós?
+-Quem mais poderia ser?
+
+406
+00:23:10,014 --> 00:23:11,056
+Quem é citado?
+
+407
+00:23:11,515 --> 00:23:13,100
+Leia a parte sobre...
+
+408
+00:23:13,934 --> 00:23:17,896
+"O rapaz energético da Ciência
+Comportamental, amigo de Kemper."
+
+409
+00:23:17,980 --> 00:23:19,189
+Quem falou com o repórter?
+
+410
+00:23:19,273 --> 00:23:21,692
+Deve ter sido seu amigo de bebedeira.
+
+411
+00:23:21,984 --> 00:23:24,528
+Foi um papo particular
+com um membro da polícia.
+
+412
+00:23:24,612 --> 00:23:27,114
+-Enquanto você estava bêbado.
+-Comemorando.
+
+413
+00:23:27,406 --> 00:23:29,074
+"Usando provas da cena do crime,
+
+414
+00:23:29,158 --> 00:23:32,036
+ele conseguiu romper as barreiras
+psicológicas do Devier"?
+
+415
+00:23:32,119 --> 00:23:33,579
+Isso parece ter sido coerção.
+
+416
+00:23:33,662 --> 00:23:35,581
+Pior, parece papo furado.
+
+417
+00:23:36,123 --> 00:23:40,544
+Devier foi interrogado porque árvores
+foram podadas na rua da vítima.
+
+418
+00:23:41,003 --> 00:23:43,797
+-O bom trabalho de detetive.
+-Isso o levou ao interrogatório.
+
+419
+00:23:43,881 --> 00:23:45,466
+Nós o fizemos confessar.
+
+420
+00:23:45,549 --> 00:23:49,178
+-Está orgulhoso disso?
+-Não tem nada escandaloso aqui.
+
+421
+00:23:50,012 --> 00:23:51,472
+-Publicidade faz bem.
+-Não.
+
+422
+00:23:51,555 --> 00:23:54,391
+Vamos concordar que não estamos prontos
+pra aparecer na TV?
+
+423
+00:23:54,475 --> 00:23:55,851
+Eu não dei uma entrevista.
+
+424
+00:23:55,934 --> 00:23:57,853
+Mesmo que sejamos corretamente descritos,
+
+425
+00:23:57,936 --> 00:24:00,773
+as pessoas não deveriam ler sobre nós.
+
+426
+00:24:00,856 --> 00:24:02,024
+Por que não?
+
+427
+00:24:02,107 --> 00:24:03,567
+Porque não.
+
+428
+00:24:04,151 --> 00:24:05,069
+Bill...
+
+429
+00:24:08,405 --> 00:24:12,618
+é possível que esteja zangado porque
+não mencionaram você no artigo?
+
+430
+00:24:22,711 --> 00:24:27,007
+Oi, Susan. É a Dra. Wendy Carr.
+Preciso de uma reserva num voo amanhã.
+
+431
+00:24:27,091 --> 00:24:31,136
+Não sei o que fazer a não ser amordaçá-lo.
+Por favor, não volte pra Boston.
+
+432
+00:24:31,220 --> 00:24:33,097
+Atlanta. Saindo de Dulles.
+
+433
+00:24:33,722 --> 00:24:36,475
+-No mesmo dia, se possível.
+-Por que vai à Atlanta?
+
+434
+00:24:36,558 --> 00:24:38,602
+-Vou falar com a promotora.
+-Sobre o quê?
+
+435
+00:24:38,686 --> 00:24:41,355
+Na matéria diz
+que vão pedir a pena de morte.
+
+436
+00:24:41,438 --> 00:24:44,525
+-E daí?
+-Não podemos nos envolver nisso.
+
+437
+00:24:44,608 --> 00:24:47,236
+Desculpe. Sim, estou. 
+Pode me dar esse número de novo?
+
+438
+00:24:47,319 --> 00:24:49,363
+Do que está falando? Não é problema nosso.
+
+439
+00:24:49,446 --> 00:24:50,656
+É meu.
+
+440
+00:24:50,739 --> 00:24:53,242
+-Ele matou uma menina de 12 anos.
+-Eu sei.
+
+441
+00:24:53,325 --> 00:24:55,828
+Janela ou corredor, tanto faz.
+
+442
+00:24:55,911 --> 00:24:59,039
+-Tem pena de morte na Geórgia.
+-Também vou precisar de um carro.
+
+443
+00:24:59,123 --> 00:25:00,749
+O que vai dizer a eles?
+
+444
+00:25:01,250 --> 00:25:04,211
+Só fizemos quatro entrevistas.
+Ninguém vai falar conosco
+
+445
+00:25:04,294 --> 00:25:06,547
+se mandarmos gente pra cadeira elétrica.
+
+446
+00:25:06,630 --> 00:25:09,299
+E a polícia não falará conosco
+se souberem que receamos
+
+447
+00:25:09,383 --> 00:25:11,218
+executar estupradores e assassinos.
+
+448
+00:25:11,301 --> 00:25:14,179
+Parece ótimo. Um conversível ou semi.
+
+449
+00:25:14,263 --> 00:25:15,973
+Não pode ir representando o FBI.
+
+450
+00:25:16,056 --> 00:25:17,599
+Não farei isso.
+
+451
+00:25:17,683 --> 00:25:19,560
+Eles não entenderão sua conexão ao caso.
+
+452
+00:25:19,643 --> 00:25:23,814
+Se não vê como essa situação
+nos compromete, não sei o que dizer.
+
+453
+00:25:23,897 --> 00:25:26,775
+Desculpe. Estou distraída.
+
+454
+00:25:26,859 --> 00:25:29,069
+Pode me dar esse número mais uma vez?
+
+455
+00:25:29,153 --> 00:25:30,070
+Vá com ela.
+
+456
+00:25:30,696 --> 00:25:32,406
+Você nos pôs nessa situação.
+
+457
+00:25:33,782 --> 00:25:35,200
+Feche a porta.
+
+458
+00:25:37,327 --> 00:25:38,746
+Anotei desta vez. Obrigada.
+
+459
+00:25:53,427 --> 00:25:56,346
+Deixe comigo. Estou acostumado
+a falar com a polícia.
+
+460
+00:25:56,430 --> 00:25:57,264
+SALA DO TRIBUNAL
+
+461
+00:25:59,975 --> 00:26:03,312
+Promotora Mayweather, obrigada
+por nos receber tão inesperadamente.
+
+462
+00:26:03,395 --> 00:26:07,775
+Esther, por favor. Estou feliz em conhecer
+o homem que me entregou Gene Devier.
+
+463
+00:26:08,901 --> 00:26:09,943
+O prazer é meu.
+
+464
+00:26:10,444 --> 00:26:12,446
+A professora Carr é consultora no FBI
+
+465
+00:26:12,529 --> 00:26:14,740
+e fundamental
+no desenvolvimento do programa...
+
+466
+00:26:14,823 --> 00:26:17,659
+Desculpe. Tenho só o tempo
+de comer este sanduíche.
+
+467
+00:26:17,743 --> 00:26:22,164
+Temos entrevistado criminosos
+muito violentos. O pior do pior.
+
+468
+00:26:22,247 --> 00:26:24,666
+É preciso estabelecer
+uma relação de confiança
+
+469
+00:26:24,750 --> 00:26:27,544
+para que nos deem
+informações voluntariamente.
+
+470
+00:26:27,628 --> 00:26:31,090
+Tentamos ser objetivos,
+pois o que eles têm a dizer é valioso.
+
+471
+00:26:31,465 --> 00:26:34,510
+Mas se acharem que nossas técnicas
+são usadas para exterminá-los...
+
+472
+00:26:34,593 --> 00:26:37,346
+Como suas técnicas seriam usadas pra isso?
+
+473
+00:26:37,888 --> 00:26:42,142
+O agente Ford fez um esboço psicológico
+do Sr. Devier, baseado na nossa pesquisa,
+
+474
+00:26:42,226 --> 00:26:44,520
+que foi usado para garantir a confissão.
+
+475
+00:26:44,603 --> 00:26:47,272
+Se ele for condenado e executado, então...
+
+476
+00:26:47,356 --> 00:26:50,108
+Querida, não matamos criminosos.
+
+477
+00:26:50,692 --> 00:26:52,444
+Eles matam a si mesmos.
+
+478
+00:26:52,861 --> 00:26:53,695
+Como assim?
+
+479
+00:26:53,779 --> 00:26:56,573
+É o comportamento deles
+que os põe naquela cadeira.
+
+480
+00:26:56,740 --> 00:26:57,699
+Acho que...
+
+481
+00:26:57,783 --> 00:27:01,119
+Quando falo com o júri, sempre pergunto:
+"Vocês assistem à TV?"
+
+482
+00:27:01,203 --> 00:27:02,371
+A maioria assiste.
+
+483
+00:27:02,454 --> 00:27:04,623
+E digo: "Quem assiste
+aos programas policiais?"
+
+484
+00:27:05,457 --> 00:27:08,418
+É aí que vai saber se o júri
+é esperto ou burro.
+
+485
+00:27:08,502 --> 00:27:13,090
+E digo: "Esqueçam a TV, pois nunca
+mostra a experiência da vítima."
+
+486
+00:27:13,173 --> 00:27:14,716
+-Não.
+-Nunca ouvirão os gritos
+
+487
+00:27:14,800 --> 00:27:17,928
+da mulher sendo estuprada
+no <i>Arquivo Confidencial.</i>
+
+488
+00:27:18,470 --> 00:27:22,975
+Não vão sentir o cheiro de carne queimada
+pelos cigarros no corpo dela
+
+489
+00:27:23,058 --> 00:27:26,562
+-no <i>Hawaii Five-0."
+-</i>Não são estratégias de promotoria
+
+490
+00:27:26,645 --> 00:27:29,857
+-que discuto aqui. Eu só...
+-E eu ainda não acabei.
+
+491
+00:27:29,940 --> 00:27:33,527
+A questão é que quando passa
+da ideia abstrata de assassinato
+
+492
+00:27:33,610 --> 00:27:35,445
+para a realidade visceral,
+
+493
+00:27:35,529 --> 00:27:37,489
+você perde a objetividade.
+
+494
+00:27:37,948 --> 00:27:40,909
+Só quando sente a dor dessas vítimas
+e de suas famílias
+
+495
+00:27:40,993 --> 00:27:44,413
+é que pode ver a extensão da escolha
+que o assassino fez.
+
+496
+00:27:44,496 --> 00:27:46,874
+É essa escolha que sela o destino dele.
+
+497
+00:27:46,957 --> 00:27:50,752
+Não há razão pra matar as pessoas
+quando temos recursos para prendê-las.
+
+498
+00:27:50,836 --> 00:27:53,839
+Essa gente passa o resto de suas vidas
+em condições horríveis,
+
+499
+00:27:53,922 --> 00:27:56,425
+que refletem o ambiente em que cresceram.
+
+500
+00:27:56,508 --> 00:28:00,095
+Talvez... Desculpem. Mas, talvez, em vez
+de debater os prós e contras de...
+
+501
+00:28:00,178 --> 00:28:02,639
+Sim. Vamos direto ao ponto.
+
+502
+00:28:03,098 --> 00:28:06,018
+Querem que eu peça menos
+que a pena capital
+
+503
+00:28:06,101 --> 00:28:08,645
+para que o FBI não seja mal visto?
+
+504
+00:28:09,771 --> 00:28:13,692
+Não o FBI, mas o nosso trabalho
+na Ciência Comportamental.
+
+505
+00:28:14,526 --> 00:28:18,780
+Se isso o afetar, não conseguiremos
+alcançar o objetivo principal
+
+506
+00:28:18,864 --> 00:28:23,118
+que é prevenir que esse tipo
+de crime seja cometido.
+
+507
+00:28:24,703 --> 00:28:26,705
+Eu estou lhe pedindo que considere...
+
+508
+00:28:27,706 --> 00:28:30,209
+prisão perpétua sem possibilidade
+de condicional.
+
+509
+00:28:35,339 --> 00:28:37,049
+Sou uma representante eleita.
+
+510
+00:28:37,466 --> 00:28:40,302
+Aqui na Geórgia,
+a morte é a vontade do povo.
+
+511
+00:28:40,385 --> 00:28:42,596
+Se não quiserem se envolver publicamente,
+
+512
+00:28:42,679 --> 00:28:45,265
+é melhor ficarem fora do noticiário.
+
+513
+00:29:08,372 --> 00:29:09,456
+O que esperava?
+
+514
+00:29:09,539 --> 00:29:10,874
+Uma conversa racional.
+
+515
+00:29:13,210 --> 00:29:15,128
+Não sei o que eu esperava. Eu...
+
+516
+00:29:16,630 --> 00:29:18,840
+Passei meses da minha vida e...
+
+517
+00:29:20,801 --> 00:29:22,678
+Esperava que completássemos a pesquisa
+
+518
+00:29:22,761 --> 00:29:25,764
+-antes de vê-la usada pra esse fim.
+-Que diferença faz?
+
+519
+00:29:25,847 --> 00:29:28,183
+Eu não teria de vir a reuniões como essa.
+
+520
+00:29:28,267 --> 00:29:29,935
+Para sair ilesa?
+
+521
+00:29:30,018 --> 00:29:32,604
+Puxa, Wendy.
+É mais inteligente do que isso.
+
+522
+00:29:33,897 --> 00:29:35,232
+Parece que não.
+
+523
+00:29:37,693 --> 00:29:41,363
+Não tem como fugir da pena de morte
+em estados onde ela existe.
+
+524
+00:29:41,446 --> 00:29:44,283
+Isso não quer dizer
+que estejamos agindo errado.
+
+525
+00:30:07,014 --> 00:30:08,890
+-Oi.
+-Oi.
+
+526
+00:30:10,475 --> 00:30:11,852
+Está agradável lá fora.
+
+527
+00:30:13,186 --> 00:30:14,187
+Como foi sua viagem?
+
+528
+00:30:14,271 --> 00:30:16,356
+Quente. Úmida. Terrível.
+
+529
+00:30:16,440 --> 00:30:17,274
+Geórgia.
+
+530
+00:30:18,650 --> 00:30:20,569
+-Já comeu?
+-Não.
+
+531
+00:30:20,652 --> 00:30:22,446
+Ótimo. Quer ir comer algo?
+
+532
+00:30:24,614 --> 00:30:26,199
+Está ficando tarde, vamos indo.
+
+533
+00:30:26,283 --> 00:30:27,868
+Não, acho que não.
+
+534
+00:30:29,119 --> 00:30:30,078
+Está bem.
+
+535
+00:30:36,418 --> 00:30:37,336
+Ainda está zangada?
+
+536
+00:30:38,712 --> 00:30:39,629
+Está...
+
+537
+00:30:40,505 --> 00:30:41,757
+Como está exatamente?
+
+538
+00:30:41,840 --> 00:30:43,550
+Tenho de estar alguma coisa?
+
+539
+00:30:49,431 --> 00:30:52,642
+Nos últimos dias, andei pensando
+em quando nos conhecemos.
+
+540
+00:30:54,811 --> 00:30:56,063
+Você era doce.
+
+541
+00:30:56,146 --> 00:30:57,314
+E curioso.
+
+542
+00:30:57,397 --> 00:30:58,523
+Ainda sou...
+
+543
+00:30:59,274 --> 00:31:00,192
+curioso.
+
+544
+00:31:00,942 --> 00:31:01,902
+Não.
+
+545
+00:31:02,903 --> 00:31:04,071
+Está diferente.
+
+546
+00:31:04,154 --> 00:31:07,491
+Sou a mesma pessoa que você conquistou
+com seu macacão.
+
+547
+00:31:07,574 --> 00:31:08,784
+Não é verdade.
+
+548
+00:31:09,743 --> 00:31:11,370
+Nem eu sou a mesma.
+
+549
+00:31:12,079 --> 00:31:13,288
+Aonde quer chegar?
+
+550
+00:31:13,997 --> 00:31:15,916
+Estou só... pensando, falando.
+
+551
+00:31:15,999 --> 00:31:17,501
+Pensando em...
+
+552
+00:31:19,378 --> 00:31:21,171
+-Não sei.
+-Não sabe?
+
+553
+00:31:21,630 --> 00:31:22,672
+Eu não sei.
+
+554
+00:31:23,298 --> 00:31:24,800
+Nossa, Debbie. Puxa vida.
+
+555
+00:31:24,883 --> 00:31:26,718
+Sabe ler tão bem as pessoas...
+
+556
+00:31:27,761 --> 00:31:28,720
+então me diga.
+
+557
+00:31:33,767 --> 00:31:34,768
+Está bem.
+
+558
+00:31:35,644 --> 00:31:36,770
+Bem...
+
+559
+00:31:37,813 --> 00:31:40,690
+quando cheguei,
+você não se levantou pra falar comigo.
+
+560
+00:31:40,774 --> 00:31:43,819
+Não me convidou pra entrar
+e nem quer ir jantar comigo.
+
+561
+00:31:44,486 --> 00:31:46,238
+Está sentada de braços cruzados,
+
+562
+00:31:46,321 --> 00:31:48,949
+o que aprendi, com você,
+que é mau sinal.
+
+563
+00:31:50,075 --> 00:31:52,911
+Tem estado de mau humor
+nos nossos últimos encontros.
+
+564
+00:31:52,994 --> 00:31:54,830
+Está sempre começando discussões
+
+565
+00:31:54,913 --> 00:31:57,999
+e anda me julgando de forma negativa.
+
+566
+00:31:58,083 --> 00:32:00,502
+E apesar da sua incerteza
+sobre seu diploma,
+
+567
+00:32:00,585 --> 00:32:02,379
+fica acordada até tarde fazendo dever,
+
+568
+00:32:02,462 --> 00:32:04,256
+e eu vou pra cama sozinho.
+
+569
+00:32:06,633 --> 00:32:10,470
+Quando cheguei, você me ofereceu vinho.
+Poderia até ser um gesto de boas-vindas,
+
+570
+00:32:10,554 --> 00:32:12,639
+mas mesmo sabendo
+que eu vinha do aeroporto,
+
+571
+00:32:12,722 --> 00:32:14,141
+não trouxe mais uma taça...
+
+572
+00:32:14,850 --> 00:32:16,560
+e já bebeu metade da garrafa.
+
+573
+00:32:16,810 --> 00:32:21,773
+Isso quer dizer
+que você quer relaxar pra poder...
+
+574
+00:32:25,193 --> 00:32:26,278
+terminar comigo?
+
+575
+00:32:32,367 --> 00:32:33,994
+É isso que estou fazendo?
+
+576
+00:32:36,621 --> 00:32:39,458
+Não vamos estender isso.
+Pego minhas coisas na semana que vem.
+
+577
+00:32:40,459 --> 00:32:43,253
+Avisarei antes,
+caso não queira estar aqui.
+
+578
+00:33:32,844 --> 00:33:34,846
+DR. BRUXTON EMERGÊNCIA
+LIGUE ASSIM QUE PUDER
+
+579
+00:33:34,930 --> 00:33:36,640
+Estamos tentando. Está devagar.
+
+580
+00:33:36,723 --> 00:33:38,183
+-Sim.
+-Você que anotou o recado?
+
+581
+00:33:56,076 --> 00:33:58,495
+<i>Centro Médico de Vacaville.
+Em que posso ajudar?</i>
+
+582
+00:33:58,578 --> 00:34:02,791
+Recebi um recado pra ligar
+para o Dr... Bruxton.
+
+583
+00:34:02,874 --> 00:34:05,377
+<i>-Um momento, por favor.</i>
+-Viu quem botou isso aqui?
+
+584
+00:34:06,002 --> 00:34:07,462
+Acabei de chegar.
+
+585
+00:34:08,296 --> 00:34:09,130
+<i>CTI.</i>
+
+586
+00:34:09,214 --> 00:34:12,968
+Olá, estou tentando falar
+com o Dr. Bruxton.
+
+587
+00:34:13,051 --> 00:34:15,470
+<i>Creio que o Dr. Bruxton 
+está numa cirurgia.</i>
+
+588
+00:34:15,554 --> 00:34:19,307
+Recebi um recado para retornar sua...
+
+589
+00:34:19,391 --> 00:34:20,392
+<i>Um momento.</i>
+
+590
+00:34:29,943 --> 00:34:31,987
+<i>O Dr. Bruxton não está disponível agora.</i>
+
+591
+00:34:32,070 --> 00:34:34,573
+Sou do FBI, meu nome é Holden Ford.
+
+592
+00:34:34,656 --> 00:34:36,950
+<i>Sim, ele estava esperando sua ligação. </i>
+
+593
+00:34:37,826 --> 00:34:39,661
+Pode me dizer qual é o assunto?
+
+594
+00:34:40,120 --> 00:34:43,582
+<i>Você está listado como responsável médico
+de um de nossos pacientes.</i>
+
+595
+00:34:46,334 --> 00:34:48,753
+Desculpe, mas deve haver um engano.
+
+596
+00:34:49,504 --> 00:34:53,592
+<i>Não creio. Edmund Kemper o citou
+especificamente como responsável.</i>
+
+597
+00:34:54,843 --> 00:34:57,012
+<i>Mas agora, ele já está fora de perigo.</i>
+
+598
+00:34:57,721 --> 00:34:58,597
+Perigo?
+
+599
+00:34:58,680 --> 00:35:01,308
+<i>O Sr. Kemper tentou
+se matar ontem à noite.</i>
+
+600
+00:35:03,727 --> 00:35:05,520
+-Tem certeza?
+-<i>Sim, senhor.</i>
+
+601
+00:35:06,104 --> 00:35:09,482
+É impossível. Não acho que...
+
+602
+00:35:09,566 --> 00:35:11,860
+<i>Ele saiu da cirurgia às 4h30 desta manhã.</i>
+
+603
+00:35:11,943 --> 00:35:13,862
+<i>Ele está bem. Está se recuperando.</i>
+
+604
+00:35:18,617 --> 00:35:20,368
+<i>-Alô?</i>
+-Precisa de algo mais de mim?
+
+605
+00:35:20,452 --> 00:35:22,746
+<i>-O médico vai ligar se precisar.</i>
+-Certo.
+
+606
+00:35:28,293 --> 00:35:31,046
+Parece que o Conselho
+de Responsabilidade Profissional
+
+607
+00:35:31,129 --> 00:35:34,966
+achou provas contínuas
+para uma investigação da nossa unidade.
+
+608
+00:35:35,050 --> 00:35:36,384
+"Provas contínuas"?
+
+609
+00:35:36,468 --> 00:35:37,802
+Conseguiram a fita.
+
+610
+00:35:39,137 --> 00:35:41,640
+-Como conseguiram isso?
+-Não tenho ideia.
+
+611
+00:35:43,350 --> 00:35:45,935
+Mas os três foram chamados
+para uma reunião com eles.
+
+612
+00:35:46,019 --> 00:35:49,564
+E já que alguém fez a coisa certa por nós,
+
+613
+00:35:50,774 --> 00:35:53,902
+eu recomendo que sigamos
+com total transparência.
+
+614
+00:36:05,246 --> 00:36:06,122
+Foi você?
+
+615
+00:36:07,832 --> 00:36:09,000
+Vá se foder, Bill.
+
+616
+00:36:36,486 --> 00:36:38,029
+<i>Por favor, diga seu nome. </i>
+
+617
+00:36:38,113 --> 00:36:40,115
+<i>Agente especial Holden Ford.</i>
+
+618
+00:36:40,198 --> 00:36:43,201
+<i>Qual o cargo que ocupa no FBI? </i>
+
+619
+00:36:43,868 --> 00:36:46,579
+Trabalho na Unidade
+de Ciência Comportamental.
+
+620
+00:36:46,663 --> 00:36:48,039
+Você e o agente William Tench
+
+621
+00:36:48,123 --> 00:36:50,750
+entrevistaram recentemente
+um preso chamado Richard Speck?
+
+622
+00:36:50,834 --> 00:36:53,169
+-Correto.
+-Vocês gravaram a entrevista?
+
+623
+00:36:53,253 --> 00:36:55,380
+-Sim.
+-Quem gravou a entrevista?
+
+624
+00:36:55,463 --> 00:36:56,381
+Eu gravei.
+
+625
+00:36:57,132 --> 00:37:00,009
+Vocês entrevistaram
+vários presos nos últimos meses.
+
+626
+00:37:00,093 --> 00:37:02,137
+-Gravaram esses também?
+-Sim.
+
+627
+00:37:02,220 --> 00:37:04,305
+-Quem gravou?
+-Eu gravei.
+
+628
+00:37:04,389 --> 00:37:05,682
+Com que propósito?
+
+629
+00:37:05,765 --> 00:37:08,643
+Para arquivo, documentação.
+
+630
+00:37:08,727 --> 00:37:11,062
+-Isto é penoso, agente Ford?
+-Perdão?
+
+631
+00:37:11,146 --> 00:37:13,481
+Acha este processo penoso?
+
+632
+00:37:13,565 --> 00:37:15,066
+Eu o acho desnecessário.
+
+633
+00:37:16,234 --> 00:37:19,529
+O que fez com a gravação
+quando voltou de Quantico?
+
+634
+00:37:19,612 --> 00:37:21,906
+Eu a entreguei ao agente Smith
+para transcrevê-la.
+
+635
+00:37:21,990 --> 00:37:24,117
+-E ele a transcreveu?
+-Sim.
+
+636
+00:37:24,200 --> 00:37:26,619
+-E você a revisou?
+-Sim.
+
+637
+00:37:26,703 --> 00:37:28,621
+E achou que deveria ser editada?
+
+638
+00:37:28,705 --> 00:37:29,914
+Sim.
+
+639
+00:37:29,998 --> 00:37:31,249
+Por que decidiu isso?
+
+640
+00:37:31,1000 --> 00:37:37,839
+Achei que havia uma parte que poderia ser
+considerada delicada por outras pessoas.
+
+641
+00:37:37,922 --> 00:37:40,425
+Quem seriam essas outras pessoas?
+
+642
+00:37:40,508 --> 00:37:42,427
+Outras pessoas do FBI.
+
+643
+00:37:42,761 --> 00:37:46,139
+E pessoas da agência
+de onde vem nosso financiamento.
+
+644
+00:37:47,015 --> 00:37:48,141
+Qual seria essa parte?
+
+645
+00:37:48,600 --> 00:37:50,810
+A parte onde perguntei a Speck
+por que ele tirou
+
+646
+00:37:50,894 --> 00:37:54,147
+"oito putinhas" deste mundo.
+
+647
+00:37:54,230 --> 00:37:56,316
+De repente, achou que não ia cair bem.
+
+648
+00:37:56,441 --> 00:37:57,442
+Isso mesmo.
+
+649
+00:37:58,693 --> 00:38:01,571
+-Alguém influenciou sua decisão?
+-Não.
+
+650
+00:38:01,654 --> 00:38:04,324
+Seu colega, o agente Tench.
+Ele influenciou sua decisão?
+
+651
+00:38:04,407 --> 00:38:06,201
+Eu tomei essa decisão sozinho.
+
+652
+00:38:06,284 --> 00:38:09,370
+O que fez depois que decidiu
+que essa parte era delicada demais
+
+653
+00:38:09,454 --> 00:38:11,080
+para permanecer na transcrição?
+
+654
+00:38:11,164 --> 00:38:13,208
+Pedi ao agente Smith para tirá-la.
+
+655
+00:38:13,291 --> 00:38:15,919
+-É o supervisor do agente Smith?
+-Não.
+
+656
+00:38:16,002 --> 00:38:17,712
+Quem mais sabia dessa edição?
+
+657
+00:38:17,796 --> 00:38:20,757
+Eu, o agente Smith e o agente Tench.
+
+658
+00:38:20,840 --> 00:38:23,760
+Quando vocês três se encontraram
+para falar da queixa de Speck,
+
+659
+00:38:23,843 --> 00:38:26,513
+quem decidiu trazer apenas
+a transcrição editada?
+
+660
+00:38:26,596 --> 00:38:28,056
+Foi minha decisão.
+
+661
+00:38:28,139 --> 00:38:29,808
+-Um acordo tácito?
+-Sim.
+
+662
+00:38:29,891 --> 00:38:32,477
+Pediu ao Smith que mentisse
+sobre apagar a fita?
+
+663
+00:38:32,560 --> 00:38:35,188
+-Não diretamente.
+-O que quer dizer?
+
+664
+00:38:35,271 --> 00:38:36,815
+Eu só olhei para ele.
+
+665
+00:38:36,898 --> 00:38:38,942
+Pedi a ele que mentisse só com meu olhar.
+
+666
+00:38:40,527 --> 00:38:44,447
+Essa edição chegou ao conhecimento
+dos outros membros da UCC?
+
+667
+00:38:46,533 --> 00:38:49,869
+-Acha engraçado, agente Ford?
+-Acharia, se não fosse tão fraco.
+
+668
+00:38:49,953 --> 00:38:50,787
+Como assim?
+
+669
+00:38:50,870 --> 00:38:53,581
+Acha que não conheço
+esta intimidação de diretor de escola?
+
+670
+00:38:53,665 --> 00:38:56,960
+É isso o que faço com criminosos
+violentos, só que bem melhor.
+
+671
+00:38:57,043 --> 00:38:59,921
+Agente Ford, está sendo acusado
+de mentir para o FBI.
+
+672
+00:39:00,588 --> 00:39:02,215
+Tem noção de como isso é grave?
+
+673
+00:39:02,298 --> 00:39:05,343
+Usou seu distintivo pra ter acesso
+a um hospital da Califórnia,
+
+674
+00:39:05,426 --> 00:39:06,719
+sem aprovação oficial.
+
+675
+00:39:06,803 --> 00:39:10,181
+Para entrevistar Edmund Kemper,
+o que deu início ao nosso programa.
+
+676
+00:39:10,265 --> 00:39:13,226
+Não nos interessa
+o que considera suas realizações.
+
+677
+00:39:13,309 --> 00:39:14,602
+Seus métodos nos preocupam.
+
+678
+00:39:14,686 --> 00:39:17,897
+A linguagem que usou com Speck
+nessa entrevista original
+
+679
+00:39:17,981 --> 00:39:19,858
+é muito negativa para o FBI.
+
+680
+00:39:19,941 --> 00:39:21,484
+E chamá-lo de um monte de merda?
+
+681
+00:39:24,028 --> 00:39:27,574
+-Agora me entenderam.
+-Agente, ouça o que estamos dizendo.
+
+682
+00:39:27,657 --> 00:39:31,953
+Abusar do seu distintivo é uma coisa,
+suprimir provas é algo grave.
+
+683
+00:39:32,537 --> 00:39:34,831
+Seu comportamento não o manterá aqui.
+
+684
+00:39:34,914 --> 00:39:36,332
+Acabo de chegar da Geórgia,
+
+685
+00:39:36,416 --> 00:39:39,085
+onde meu comportamento
+levou à prisão e confissão
+
+686
+00:39:39,168 --> 00:39:41,963
+de um homem que estuprou e matou
+uma menina de 12 anos.
+
+687
+00:39:42,046 --> 00:39:43,590
+Meu colega deve ter comentado.
+
+688
+00:39:43,673 --> 00:39:46,342
+Seu colega tem objeções
+ao seu comportamento.
+
+689
+00:39:46,759 --> 00:39:48,219
+Estão nos instigando.
+
+690
+00:39:48,303 --> 00:39:51,764
+Ele confirma nossa preocupação
+com seu comportamento como agente federal.
+
+691
+00:39:52,223 --> 00:39:53,975
+Temos tudo gravado, se quiser ouvir.
+
+692
+00:39:54,058 --> 00:39:55,143
+Que se foda.
+
+693
+00:39:56,895 --> 00:39:58,938
+Se você sair, não poderei ajudá-lo.
+
+694
+00:39:59,856 --> 00:40:03,526
+Tenho de fazer um relatório
+que constará na sua ficha pessoal.
+
+695
+00:40:04,319 --> 00:40:05,945
+Está cometendo um erro terrível.
+
+696
+00:40:06,029 --> 00:40:09,490
+O único erro que cometi
+foi duvidar de mim mesmo.
+
+697
+00:40:20,335 --> 00:40:21,836
+O que disse a eles, Bill?
+
+698
+00:40:23,212 --> 00:40:24,547
+Eu disse a verdade.
+
+699
+00:41:08,216 --> 00:41:10,718
+<i>Senhoras e senhores, 
+pousaremos em instantes. </i>
+
+700
+00:41:33,658 --> 00:41:34,659
+Assine aqui.
+
+701
+00:41:37,578 --> 00:41:38,496
+Obrigado.
+
+702
+00:41:39,747 --> 00:41:42,792
+<i>Atenda a linha quatro.</i>
+
+703
+00:41:59,934 --> 00:42:01,185
+Edmund Kemper.
+
+704
+00:42:05,898 --> 00:42:06,899
+Obrigado.
+
+705
+00:42:37,972 --> 00:42:38,973
+Você veio.
+
+706
+00:42:39,640 --> 00:42:40,892
+Você foi convincente.
+
+707
+00:42:41,476 --> 00:42:44,228
+Tentei métodos menos dramáticos.
+
+708
+00:42:44,312 --> 00:42:46,731
+-Recebeu meus cartões?
+-Sim.
+
+709
+00:42:48,441 --> 00:42:51,861
+Não me surpreende você responder
+a algo espetacular.
+
+710
+00:42:52,987 --> 00:42:55,573
+Por que quer me ver, Ed?
+
+711
+00:42:57,533 --> 00:42:59,452
+Li um artigo sobre você.
+
+712
+00:42:59,911 --> 00:43:02,330
+Sobre nós, eu diria.
+
+713
+00:43:02,413 --> 00:43:04,499
+<i>The Atlanta Constitution?</i>
+
+714
+00:43:04,582 --> 00:43:06,793
+A Associated Press divulgou a história.
+
+715
+00:43:09,545 --> 00:43:11,464
+Você disse que éramos amigos.
+
+716
+00:43:16,135 --> 00:43:18,304
+-Sim.
+-Somos amigos, Holden?
+
+717
+00:43:19,013 --> 00:43:22,767
+No contexto do nosso trabalho
+juntos, claro.
+
+718
+00:43:22,850 --> 00:43:24,268
+Nosso trabalho juntos.
+
+719
+00:43:24,894 --> 00:43:28,689
+É uma boa forma de colocar isso.
+Eu classificaria do mesmo jeito.
+
+720
+00:43:30,775 --> 00:43:33,528
+Ainda assim, nosso trabalho
+está incompleto.
+
+721
+00:43:33,611 --> 00:43:36,322
+-Entendo.
+-Como falei em minhas cartas.
+
+722
+00:43:37,073 --> 00:43:38,449
+Você teve mais...
+
+723
+00:43:40,034 --> 00:43:41,285
+ideias?
+
+724
+00:43:41,369 --> 00:43:42,203
+Tive.
+
+725
+00:43:44,038 --> 00:43:47,291
+Não vou exibi-las como se fossem
+um espetáculo,
+
+726
+00:43:47,375 --> 00:43:50,128
+especialmente por você ter falado de mim
+na minha ausência,
+
+727
+00:43:50,211 --> 00:43:53,214
+usando o que lhe disse para se legitimar.
+
+728
+00:43:53,881 --> 00:43:55,383
+A história não foi...
+
+729
+00:43:58,302 --> 00:44:01,556
+Eu... tinha bebido um pouco.
+
+730
+00:44:02,348 --> 00:44:05,643
+O que é esse "perfil comportamental"
+que anda promovendo?
+
+731
+00:44:06,936 --> 00:44:07,937
+Bem...
+
+732
+00:44:12,692 --> 00:44:16,028
+é uma forma de determinar a psicologia
+de um criminoso,
+
+733
+00:44:16,112 --> 00:44:19,407
+baseada em cenas de crimes
+e características pessoais.
+
+734
+00:44:19,490 --> 00:44:21,075
+Gostei disso.
+
+735
+00:44:23,327 --> 00:44:25,413
+Qual é a minha psicologia?
+
+736
+00:44:25,496 --> 00:44:27,498
+Não posso lhe dizer.
+
+737
+00:44:27,582 --> 00:44:29,417
+Não pode ou não quer?
+
+738
+00:44:29,500 --> 00:44:32,879
+-É um assunto técnico, Ed.
+-Meu favorito.
+
+739
+00:44:33,796 --> 00:44:35,631
+Ainda estamos no início da pesquisa.
+
+740
+00:44:35,715 --> 00:44:39,302
+Não tanto que você não possa
+mencionar para a imprensa.
+
+741
+00:44:39,385 --> 00:44:42,972
+E ainda admite que fui eu
+que comecei essa história.
+
+742
+00:44:43,055 --> 00:44:47,685
+Então... acredito que me deve
+uma explicação, Holden.
+
+743
+00:44:51,647 --> 00:44:54,233
+Você é o que chamamos
+de "assassino organizado".
+
+744
+00:44:56,027 --> 00:44:58,821
+Por causa do planejamento obstinado
+que fez com seus crimes.
+
+745
+00:45:00,072 --> 00:45:02,241
+Você treinou como pegar mulheres
+várias vezes,
+
+746
+00:45:02,325 --> 00:45:04,201
+antes de selecionar sua primeira vítima.
+
+747
+00:45:04,285 --> 00:45:05,411
+Usou seu veículo,
+
+748
+00:45:05,494 --> 00:45:07,872
+tanto no sequestro
+quanto na desova dos corpos.
+
+749
+00:45:08,664 --> 00:45:10,374
+Acompanhou seus crimes pela mídia,
+
+750
+00:45:10,458 --> 00:45:13,794
+e isso sugere um estado
+de fantasia contínua.
+
+751
+00:45:18,633 --> 00:45:20,217
+Essa é a essência.
+
+752
+00:45:20,301 --> 00:45:23,512
+Acha que pode me reduzir
+a um único adjetivo?
+
+753
+00:45:23,596 --> 00:45:27,975
+Claro que não. É apenas uma forma
+de classificar características.
+
+754
+00:45:28,059 --> 00:45:30,061
+-Agora é um especialista.
+-Não.
+
+755
+00:45:30,144 --> 00:45:33,522
+-Mas fala como se fosse.
+-Não sou um especialista.
+
+756
+00:45:34,023 --> 00:45:36,108
+Mas quer ser, não quer?
+
+757
+00:45:42,198 --> 00:45:43,366
+Sim.
+
+758
+00:45:50,581 --> 00:45:53,125
+O sangue humano é quente.
+
+759
+00:45:53,626 --> 00:45:57,129
+Numa manhã fria e úmida,
+dá pra ver o vapor.
+
+760
+00:45:57,213 --> 00:45:59,048
+O que está fazendo, Ed?
+
+761
+00:45:59,131 --> 00:46:01,926
+Alguém deixou uma caneta
+na minha pasta.
+
+762
+00:46:02,009 --> 00:46:03,928
+Eu usei o corpo de metal.
+
+763
+00:46:07,098 --> 00:46:08,849
+Era isso o que queria ver?
+
+764
+00:46:10,267 --> 00:46:11,936
+Por que ia querer ver isso?
+
+765
+00:46:14,355 --> 00:46:16,065
+Olhe mais de perto.
+
+766
+00:46:22,071 --> 00:46:23,948
+Tudo bem. Sério.
+
+767
+00:46:28,494 --> 00:46:31,622
+As mulheres, no começo,
+eram indiferentes a mim.
+
+768
+00:46:32,957 --> 00:46:35,251
+Não estavam interessadas em compartilhar.
+
+769
+00:46:37,003 --> 00:46:40,006
+Minha vida inteira,
+ninguém quis interagir comigo.
+
+770
+00:46:40,089 --> 00:46:42,967
+Nem nossos gatos, quando eu era criança.
+
+771
+00:46:55,312 --> 00:47:00,151
+A única forma de ter aquelas meninas
+era matá-las, e funcionou.
+
+772
+00:47:00,651 --> 00:47:04,155
+Elas viraram minhas esposas espirituais
+e ainda estão comigo.
+
+773
+00:47:07,908 --> 00:47:13,039
+Engraçado que na UTI não tem um alarme
+para alertar os guardas.
+
+774
+00:47:13,914 --> 00:47:17,835
+É falta de visão, considerando que tipo
+de gente tem por aqui.
+
+775
+00:47:19,420 --> 00:47:22,089
+Eu poderia matá-lo facilmente.
+
+776
+00:47:23,132 --> 00:47:26,510
+Fazer coisas interessantes
+antes de alguém aparecer.
+
+777
+00:47:28,471 --> 00:47:30,598
+Assim, você ficaria comigo em espírito.
+
+778
+00:47:33,517 --> 00:47:36,771
+Convidei você várias vezes
+para vir me visitar,
+
+779
+00:47:36,854 --> 00:47:40,399
+mas mesmo assim, nunca achei que viria.
+
+780
+00:47:42,109 --> 00:47:44,111
+Por que está aqui, Holden?
+
+781
+00:47:47,239 --> 00:47:48,240
+Eu não sei.
+
+782
+00:47:51,994 --> 00:47:53,412
+Muito bem...
+
+783
+00:47:54,830 --> 00:47:56,415
+essa é a verdade.
+
+784
+00:48:24,527 --> 00:48:27,488
+-Você está bem?
+-Não consigo respirar.
+
+785
+00:48:27,571 --> 00:48:29,198
+-Tomou alguma coisa?
+-Não sei.
+
+786
+00:48:29,281 --> 00:48:31,283
+-Tem alergias?
+-Não sei.
+
+787
+00:48:32,326 --> 00:48:33,536
+Estou morrendo.
+
+788
+00:48:33,619 --> 00:48:35,496
+Não está morrendo. Está em um hospital.
+
+789
+00:48:35,579 --> 00:48:38,874
+<i>Vou alertá-lo, 
+sua postura vai derrubar você.</i>
+
+790
+00:48:38,958 --> 00:48:41,377
+<i>Seu comportamento não o manterá aqui.</i>
+
+791
+00:48:41,460 --> 00:48:43,671
+<i>...não das preciosidades
+que acham que garimpam.</i>
+
+792
+00:48:43,754 --> 00:48:44,755
+<i>Somos amigos, Holden?</i>
+
+793
+00:48:45,923 --> 00:48:47,091
+Precisamos de um médico!
+
+794
+00:48:47,842 --> 00:48:49,426
+<i>Você é a polícia do pensamento?</i>
+
+795
+00:48:49,510 --> 00:48:53,597
+<i>Tortura, mutilação. Esse é seu mundo,
+e isso o tornou paranoico.</i>
+
+796
+00:49:57,703 --> 00:49:59,705
+Legendas: Juanita Dias Costa
+
